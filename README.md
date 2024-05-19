@@ -1,8 +1,7 @@
-# Hello, I'm Akshay! 👋
-                                        
+<h1 align="center"> Hi, 👋 I'm Akshay!  </h1>
+<p> I'm a passionate learner!</p>
+ 
 Welcome to my GitHub repository
-
-I'm a passionate learner!
 
 ### 🙋‍♂️ About Me
 -🌱 I’m currently learning Web Development & Mern stack Development.
