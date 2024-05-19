@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, 👋 I'm Akshay!  </h1>
-<p> I'm a passionate learner!</p>
- 
+<h4 align="center">  I'm a passionate learner! </h4>
+
 Welcome to my GitHub repository
 
 ### 🙋‍♂️ About Me
