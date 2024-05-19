@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, 👋 I'm Akshay!  </h1>
 <h4 align="center">  I'm a passionate learner! </h4>
-
-Welcome to my GitHub repository
-
-### 🙋‍♂️ About Me
+<h5>
+Welcome to my GitHub repository</h5>
+<h2>
+ 🙋‍♂️ About Me</h2>
 -🌱 I’m currently learning Web Development & Mern stack Development.
 
 -💻 Experienced in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
