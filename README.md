@@ -14,10 +14,24 @@ Welcome to my GitHub repository</h5>
 
 ## Projects
 
-### Project 1: [e-com-Thakapilaorganic]
+### Project 1: [MERN Electronic E-commerce Website]
 
-**Description**:   A fully functional e-commerce website selling organic products 
-              including cow raw products.
+**Description**:   A fully functional e-commerce website selling a electronic products.
+              
+**Technologies Used**:  
+**MongoDB**: A NoSQL document-based database for data storage
+**Express**: A Node.js framework for building web applications
+**React**: A JavaScript library for building user interfaces
+**Node.js**: A JavaScript runtime for executing server-side code
+**Razorpay**: A payment processing platform
+**JWT**: An open standard for securely transmitting information between parties
+**Nodemailer**: A module for sending emails from Node.js
+  
+ **GitHub Repository:** 
+
+### Project 2: [e-com-Thakapilaorganic]
+
+**Description**:   A fully functional e-commerce website selling organic cow raw products.
               
 **Technologies Used**:  
  - **HTML5**: Markup language for structuring web pages.
@@ -29,7 +43,9 @@ Welcome to my GitHub repository</h5>
  **GitHub Repository:** https://github.com/Akshaylowanshi8/e-com-Thakapilorganic.git
   
  **Live Demo**: https://thakapilaorganic.vercel.app/
+ 
 
+  
 ## Skills
 
 - Frontend Development: HTML, CSS, JavaScript, React.js
