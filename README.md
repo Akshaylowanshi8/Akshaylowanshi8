@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, 👋 I'm Akshay!  </h1>
-<h4 align="center">  I'm a passionate learner! </h4>
+<!-- <h4 align="center">  I'm a passionate learner! </h4> -->
 <h5>
 Welcome to my GitHub repository</h5>
 <h2>
@@ -27,11 +27,11 @@ Welcome to my GitHub repository</h5>
 - **JWT**: An open standard for securely transmitting information between parties.
 - **Nodemailer**: A module for sending emails from Node.js.
   
- **GitHub Repository:** 
+ **GitHub Repository:** : https://github.com/Akshaylowanshi8/MERN-Electronic-E-commerce-website.git
 
 ### Project 2: [e-com-Thakapilaorganic]
 
-**Description**:   A fully functional e-commerce website selling organic cow raw products.
+**Description**:   A Fully Functional Frontend E-Commerce Website Selling Organic Cow Raw Products.
               
 **Technologies Used**:  
  - **HTML5**: Markup language for structuring web pages.
