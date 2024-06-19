@@ -19,13 +19,13 @@ Welcome to my GitHub repository</h5>
 **Description**:   A fully functional e-commerce website selling a electronic products.
               
 **Technologies Used**:  
-**MongoDB**: A NoSQL document-based database for data storage
-**Express**: A Node.js framework for building web applications
-**React**: A JavaScript library for building user interfaces
-**Node.js**: A JavaScript runtime for executing server-side code
-**Razorpay**: A payment processing platform
-**JWT**: An open standard for securely transmitting information between parties
-**Nodemailer**: A module for sending emails from Node.js
+- **MongoDB**: A NoSQL document-based database for data storage.
+- **Express**: A Node.js framework for building web applications.
+- **React**: A JavaScript library for building user interfaces.
+- **Node.js**: A JavaScript runtime for executing server-side code.
+- **Razorpay**: A payment processing platform.
+- **JWT**: An open standard for securely transmitting information between parties.
+- **Nodemailer**: A module for sending emails from Node.js.
   
  **GitHub Repository:** 
 
